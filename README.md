@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**Geethika080599/Geethika080599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Geethika
+👀 I’m interested in crunching data, creating insightful interactive dashboards, building models and helping folks grow in their career
+🌱 I’m currently working as a data analyst in Target
+💞️ I’m open for collaboration on data science / data analytics project
+📫 How to reach me : Linkedin profile: (https://www.linkedin.com/in/geethika-vad/)
+Databases MySQL SQLite Postgres
+Languages Python
+IDEs/Editors Jupyter Notebook Notepad++ PyCharm Visual Studio Code
+ML/DL NumPy Pandas Matplotlib Plotly
+Visualization tools Power Bi
+Office Microsoft PowerPoint Microsoft Excel Microsoft SharePoint  Microsoft Word
+Others Confluence Jira Docker
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
