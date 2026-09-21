@@ -2,7 +2,7 @@
 #👋 Hi, I’m Geethika
 
 ### I’m interested in crunching data, creating insightful interactive dashboards, building models and helping folks grow in their career
-#### 🌱 I’m currently working as a data analyst in Target
+#### 🌱 I’ve worked as a Data Operations analyst in 🎯Target Corporation previously
 ### 💞️ I’m open for collaboration on data science / data analytics project
 #### 📫 How to reach me : Linkedin profile: (https://www.linkedin.com/in/geethika-vad/)
 ## Databases 
